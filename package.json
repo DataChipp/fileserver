@@ -1,0 +1,9 @@
+{
+  "name": "fileserver",
+  "version": "1",
+  "description": "DataChipp fileserver to serve static assets",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "Chippewa Software Technology, LLC"
+}
