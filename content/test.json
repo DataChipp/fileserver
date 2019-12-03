@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "published": true,
+            "timestamp": "2018-02-17T16:02:39.000Z",
+            "title": "Class aptent taciti sociosqu ad litora torquent",
+            "category": "Technology",
+            "author": "John",
+            "content": "Sed hendrerit lacus metus, ut dapibus magna egestas in. Nullam porta felis ac ornare porta. Curabitur placerat erat sed justo euismod molestie. Cras gravida, ligula in accumsan tincidunt, erat ante dictum enim, id ultrices dolor augue elementum mauris. Nulla tincidunt diam id eleifend ornare. Mauris semper, ipsum eget ultricies laoreet, risus risus imperdiet mi, in blandit velit dolor eu lectus. Fusce vitae rhoncus eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam velit nibh, semper eu consectetur et, placerat bibendum quam. Maecenas vitae lectus sem. Cras sollicitudin felis a commodo lacinia.\n\nIn hac habitasse platea dictumst. Phasellus felis nunc, elementum nec ullamcorper in, pellentesque eget nisl. Aenean ullamcorper ligula vitae nunc sodales, quis fringilla eros semper. Quisque quis odio neque. Phasellus mi justo, pharetra vel porttitor et, porttitor eu magna. Aenean vel iaculis purus. Morbi eget auctor orci, eu consectetur nisi. In hac habitasse platea dictumst. Cras hendrerit urna at nulla tincidunt feugiat. Aliquam ullamcorper massa pellentesque aliquet rhoncus. Sed dignissim erat in pellentesque consequat. Nulla in sem at mauris ultricies volutpat. Praesent euismod rutrum tincidunt. Sed ac ligula cursus, elementum diam quis, iaculis odio. Quisque et nisl gravida, pulvinar ligula vitae, faucibus tortor."
+        },
+        {
+            "published": true,
+            "timestamp": "2018-02-17T15:48:29.644Z",
+            "title": "Sed sapien quam, sodales pellentesque neque",
+            "category": "General",
+            "author": "Daniel",
+            "content": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sed nunc eros. Integer rhoncus nibh at nunc imperdiet, id vulputate ligula porttitor. Mauris luctus rhoncus nisl, at gravida enim dictum a. Phasellus vitae gravida nisl, ac aliquet urna. Nulla facilisi. Proin pharetra hendrerit enim eu ornare. Mauris condimentum rhoncus turpis vel commodo. Fusce dictum massa enim, eget porttitor ligula convallis quis. Suspendisse potenti. Phasellus vel magna ornare, tincidunt ante non, placerat tellus.\n\nVivamus viverra velit dui, et consectetur felis volutpat nec. Etiam sollicitudin lectus sed velit pretium, et ornare diam porttitor. Phasellus nec gravida justo. Sed sapien quam, sodales pellentesque neque a, fringilla elementum dui. Aliquam sagittis massa ac augue ullamcorper aliquet et vitae libero. Ut nec lacus eu mauris eleifend volutpat ut sit amet sem. Vivamus cursus rhoncus ligula. Cras sed libero tempus, vestibulum est in, consequat justo. Fusce aliquam risus id lacus semper varius."
+        },
+        {
+            "published": true,
+            "timestamp": "2018-02-17T15:48:22.000Z",
+            "title": "Aenean sed quam vel erat eleifend lobortis",
+            "category": "Technology",
+            "author": "Dave",
+            "content": "Sed convallis, nulla sit amet elementum blandit, nulla nunc pulvinar ex, in consectetur lacus arcu id nibh. Cras lorem libero, elementum ut condimentum non, pretium a enim. Mauris in accumsan tortor, eget tristique mi. Vivamus elementum diam vitae iaculis pharetra. Pellentesque egestas pharetra risus. Quisque vulputate ut est eu venenatis. Aliquam luctus venenatis odio, ac dictum dolor blandit sed. Morbi ornare venenatis venenatis. Nulla rutrum vestibulum lacus id tristique. Vivamus pretium ornare elit quis auctor. Integer ut finibus lacus, sagittis dapibus augue. Nullam sit amet volutpat risus. Phasellus ex quam, aliquet ac ligula ut, semper feugiat ex. Ut dictum laoreet mi, eget mollis ex fermentum at. Proin placerat dui quis urna pharetra convallis.\n\nPraesent porttitor magna quis ligula tristique posuere. Sed eu ipsum eleifend, pharetra neque vel, rhoncus turpis. Maecenas pharetra mi non ligula imperdiet, in elementum nunc laoreet. Ut quis sapien fringilla, ultricies est id, ullamcorper risus. Sed eget eleifend orci. Fusce maximus urna non elit mattis, euismod faucibus dolor varius. Phasellus ultricies neque in dolor sodales pharetra. Sed at augue id nisl vehicula finibus. Fusce vitae vestibulum purus, nec interdum tortor.\n\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sed nunc eros. Integer rhoncus nibh at nunc imperdiet, id vulputate ligula porttitor. Mauris luctus rhoncus nisl, at gravida enim dictum a. Phasellus vitae gravida nisl, ac aliquet urna. Nulla facilisi. Proin pharetra hendrerit enim eu ornare. Mauris condimentum rhoncus turpis vel commodo. Fusce dictum massa enim, eget porttitor ligula convallis quis. Suspendisse potenti. Phasellus vel magna ornare, tincidunt ante non, placerat tellus.\n\nVivamus viverra velit dui, et consectetur felis volutpat nec. Etiam sollicitudin lectus sed velit pretium, et ornare diam porttitor. Phasellus nec gravida justo. Sed sapien quam, sodales pellentesque neque a, fringilla elementum dui. Aliquam sagittis massa ac augue ullamcorper aliquet et vitae libero. Ut nec lacus eu mauris eleifend volutpat ut sit amet sem. Vivamus cursus rhoncus ligula. Cras sed libero tempus, vestibulum est in, consequat justo. Fusce aliquam risus id lacus semper varius."
+        },
+        {
+            "published": true,
+            "timestamp": "2018-02-17T15:48:02.315Z",
+            "title": "Pellentesque tincidunt imperdiet quam",
+            "category": "Technology",
+            "author": "John",
+            "content": "Sed convallis, nulla sit amet elementum blandit, nulla nunc pulvinar ex, in consectetur lacus arcu id nibh. Cras lorem libero, elementum ut condimentum non, pretium a enim. Mauris in accumsan tortor, eget tristique mi. Vivamus elementum diam vitae iaculis pharetra. Pellentesque egestas pharetra risus. Quisque vulputate ut est eu venenatis. Aliquam luctus venenatis odio, ac dictum dolor blandit sed. Morbi ornare venenatis venenatis. Nulla rutrum vestibulum lacus id tristique. Vivamus pretium ornare elit quis auctor. Integer ut finibus lacus, sagittis dapibus augue. Nullam sit amet volutpat risus. Phasellus ex quam, aliquet ac ligula ut, semper feugiat ex. Ut dictum laoreet mi, eget mollis ex fermentum at. Proin placerat dui quis urna pharetra convallis.\n\nPraesent porttitor magna quis ligula tristique posuere. Sed eu ipsum eleifend, pharetra neque vel, rhoncus turpis. Maecenas pharetra mi non ligula imperdiet, in elementum nunc laoreet. Ut quis sapien fringilla, ultricies est id, ullamcorper risus. Sed eget eleifend orci. Fusce maximus urna non elit mattis, euismod faucibus dolor varius. Phasellus ultricies neque in dolor sodales pharetra. Sed at augue id nisl vehicula finibus. Fusce vitae vestibulum purus, nec interdum tortor.\n\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sed nunc eros. Integer rhoncus nibh at nunc imperdiet, id vulputate ligula porttitor. Mauris luctus rhoncus nisl, at gravida enim dictum a. Phasellus vitae gravida nisl, ac aliquet urna. Nulla facilisi. Proin pharetra hendrerit enim eu ornare. Mauris condimentum rhoncus turpis vel commodo. Fusce dictum massa enim, eget porttitor ligula convallis quis. Suspendisse potenti. Phasellus vel magna ornare, tincidunt ante non, placerat tellus.\n\nVivamus viverra velit dui, et consectetur felis volutpat nec. Etiam sollicitudin lectus sed velit pretium, et ornare diam porttitor. Phasellus nec gravida justo. Sed sapien quam, sodales pellentesque neque a, fringilla elementum dui. Aliquam sagittis massa ac augue ullamcorper aliquet et vitae libero. Ut nec lacus eu mauris eleifend volutpat ut sit amet sem. Vivamus cursus rhoncus ligula. Cras sed libero tempus, vestibulum est in, consequat justo. Fusce aliquam risus id lacus semper varius."
+        },
+        {
+            "published": true,
+            "timestamp": "2018-02-17T15:47:44.228Z",
+            "title": "Nam ultricies pulvinar diam vel rhoncus",
+            "category": "Financial",
+            "author": "Dave",
+            "content": "Vestibulum id porta arcu. Nullam sodales est eget gravida tristique. Nullam porttitor, justo et suscipit facilisis, lectus quam placerat dui, vel dictum lacus magna a nulla. Donec sit amet lacinia metus. Pellentesque scelerisque, erat nec sagittis mollis, magna lorem viverra diam, non dignissim turpis sem id arcu. Suspendisse massa enim, molestie mattis aliquet ut, congue sed ligula. Praesent consequat dui eget sagittis ultricies. Sed sagittis tellus diam, id elementum enim iaculis pretium.\n\nNulla nec malesuada erat, ac pharetra risus. Vivamus vehicula lacus quis libero pulvinar tempor. Fusce consequat vel nulla vel dictum. Donec ut lectus varius, luctus odio ut, sollicitudin enim. Maecenas accumsan posuere porta. Pellentesque id tellus vitae elit pharetra rutrum non eget augue. In sed venenatis lectus, sed iaculis nunc. Nam ultricies pulvinar diam vel rhoncus."
+        }
+    ],
+    "pages": {
+        "previous": null,
+        "next": 2
+    }
+}
